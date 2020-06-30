@@ -16,6 +16,3 @@ def display_board
   puts tic_tack_toe_separator
   puts tic_tack_toe_row
 end
-
-board = [" "," "," "," "," "," "," "," "," "]
-display_board(board)
